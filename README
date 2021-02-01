@@ -1,0 +1,15 @@
+Primeiro Trabalho de Sistemas Operacionais
+
+Alunos: Pedro Maure Frutuoso de Andrade (T04)
+		Leonardo Batistuzzo de Medeiros (T02)
+
+
+Para compilação do programa foi usado:
+	gcc 9.3.0-17
+	ubuntu 20.04
+
+Para compilar o código fonte é necessário, dentro do diretório em que o código está, usar o seguinte comando
+	gcc trablho.c -o main
+
+Para executar o código é necssário, dentro do diretório em que o código foi compilado, usar o seguinte comando
+	./main
